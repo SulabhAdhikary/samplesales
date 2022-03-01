@@ -1,0 +1,7 @@
+1. From the following json 
+ https://raw.githubusercontent.com/SulabhAdhikary/samplesales/main/salesman.json
+
+create list of SalesMans 
+List<SalesMan>
+
+2. From the list created find all the salesman that lives in london.
