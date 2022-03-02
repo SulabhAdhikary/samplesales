@@ -6,4 +6,10 @@ Use language of your choice, dont send me code in fb
 create list of SalesMans 
 List<SalesMan>
 
-2. From the list created find all the salesman that lives in london.
+2. From the list of salesman created above in question 1. Find all the salesman that lives in london.
+
+3. From the list of salesman created above in question 1. Find all the salesman that lives in NewYork.
+
+4. From the list of salesman created above in question 1. Find all the salesman that lives in Toronto.
+
+5. From the list of salesman created above in question 1. Find all the salesman that lives in London and is less than 40 years of age.
