@@ -12,6 +12,10 @@ List<SalesMan>
 2.3 write function to return average age of salesman who lives in london.
 2.4 write function to return list of salesman order by their age.
 2.5 Write function to retun difference of max age and min age of salesman who lives in london.
+2.6 write function to return object(salesman) of salesman who is youngest.
+2.7 write function to return object(salesman) of salesman who is oldest.
+
+
 
 3. From the list of salesman created above in question 1. Find all the salesman that lives in NewYork.
 
