@@ -14,6 +14,10 @@ List<SalesMan>
 2.5 Write function to retun difference of max age and min age of salesman who lives in london.
 2.6 write function to return object(salesman) of salesman who is youngest.
 2.7 write function to return object(salesman) of salesman who is oldest.
+2.8 write a function to find name of salesman who lives in both london and Newyork
+2.9  write a function to find name of salesman who lives in both london and Boston
+2.10 write a function to object(salesman) of salesman who is  second youngest in London
+2.11 write a function to object(salesman) of salesman who is second oldest in London.
 
 
 
