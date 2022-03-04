@@ -7,6 +7,10 @@ create list of SalesMans
 List<SalesMan>
 
 2. From the list of salesman created above in question 1. Find all the salesman that lives in london.
+2.1 write function to return total number of salesman who lives in London.
+2.2 write function to return only names of all salesman who lives in london  remeber only names of all salesman.
+2.3 write function to return average age of salesman who lives in london.
+2.4 write function to return list of salesman order by their age.
 
 3. From the list of salesman created above in question 1. Find all the salesman that lives in NewYork.
 
